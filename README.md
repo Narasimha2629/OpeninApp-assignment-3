@@ -21,5 +21,6 @@ You can install the required libraries using pip:
 
 ```bash
 pip install transformers nltk
-## output:
+```
+## output
 ![image](https://github.com/Narasimha2629/OpeninApp-assignment-3/assets/89016475/d9dc4a13-685e-4328-8c67-f17cc5e773d5)
